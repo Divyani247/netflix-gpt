@@ -1,5 +1,4 @@
-import React from 'react'
-import { useState } from 'react';
+import React from 'react';
 import { auth } from '../utils/firebase';
 import { useNavigate } from 'react-router-dom';
 import { signOut } from 'firebase/auth';
